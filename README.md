@@ -26,7 +26,7 @@ This project highlights the flexibility of n8n in building no-code/low-code auto
 
 
 ##  Workflow Screenshot
-![Workflow Screenshot](workflow-screenshot.png)<img width="1360" height="685" alt="{4F2F503E-E7FD-4E47-AD4C-61DF4F8DA5B6}" src="https://github.com/user-attachments/assets/2bf7a461-3cb6-4ca9-b1eb-cd9e5949070d" />
+![Workflow Screenshot]<img width="1360" height="685" alt="{4F2F503E-E7FD-4E47-AD4C-61DF4F8DA5B6}" src="https://github.com/user-attachments/assets/2bf7a461-3cb6-4ca9-b1eb-cd9e5949070d" />
 
 
 
