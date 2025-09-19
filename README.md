@@ -34,7 +34,7 @@ This project highlights the flexibility of n8n in building no-code/low-code auto
 ##  Files
 - `class-n8n-workflow.json` → The exported workflow  
 - `workflow-screenshot.png` → Visual representation of the workflow
-- 
+  
   
 
  **Purpose:**  
